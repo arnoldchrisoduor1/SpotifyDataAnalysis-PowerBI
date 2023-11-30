@@ -1,5 +1,7 @@
 # PowerBI End to End Analysis of the Spotify Dataset.
 
+![Screenshot 2023-11-30 200228](https://github.com/arnoldchrisoduor1/SpotifyDataAnalysis-PowerBI/assets/109024629/f4b0e3f6-64dc-4c36-9c12-ec1a0d1349e0)
+
 ## This Project Involved the Following Tools.
 
  - Data Cleaning.
@@ -20,3 +22,4 @@
  - Most songs were releaser in Spring, closely followed by winter.
  - Most people streamed songs in January.
  - May was the month with the least number of streams.
+
